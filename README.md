@@ -22,7 +22,7 @@ I build retrieval and LLM-powered products end to end. Right now that means hybr
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand9409&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anand9409&hide_border=true&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anand9409&theme=tokyo-night&hide_border=true)
