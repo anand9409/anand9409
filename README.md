@@ -26,8 +26,6 @@ I build retrieval and LLM-powered products end to end. Right now that means hybr
 
 ### GitHub Stats
 
-### GitHub Stats
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anand9409&hide_border=true&theme=tokyonight)
