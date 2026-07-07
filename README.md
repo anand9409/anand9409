@@ -1,6 +1,6 @@
-# Anand Verma
-
-AI/ML Engineer — RAG systems, agentic workflows, and document intelligence.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Anand+Verma;AI%2FML+Engineer;RAG+%C2%B7+Agents+%C2%B7+Document+AI" alt="Anand Verma" />
+</p>
 
 I build retrieval and LLM-powered products end to end. Right now that means hybrid search, distributed document pipelines, and agentic features at VaultIQ — FastAPI on the backend, Next.js on the front.
 
@@ -13,24 +13,7 @@ I build retrieval and LLM-powered products end to end. Right now that means hybr
 
 ### Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Skills](https://skillicons.dev/icons?i=python,fastapi,django,nextjs,react,ts,tailwind,sqlite,postgres,pytorch,docker,aws,linux,git)](https://skillicons.dev)
 
 ### Featured
 
@@ -43,6 +26,8 @@ I build retrieval and LLM-powered products end to end. Right now that means hybr
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anand9409&hide_border=true&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anand9409&theme=tokyo-night&hide_border=true)
+
+![Snake animation](https://raw.githubusercontent.com/anand9409/anand9409/output/github-contribution-grid-snake-dark.svg)
 
 ### Connect
 
