@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Anand+Verma;AI%2FML+Engineer;RAG+%C2%B7+Agents+%C2%B7+Document+AI" alt="Anand Verma" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anand+Verma;AI%2FML+Engineer;RAG+%C2%B7+Agents+%C2%B7+Document+AI" alt="Anand Verma" />
 </p>
 
 I build retrieval and LLM-powered products end to end. Right now that means hybrid search, distributed document pipelines, and agentic features at VaultIQ — FastAPI on the backend, Next.js on the front.
