@@ -13,7 +13,11 @@ I build retrieval and LLM-powered products end to end. Right now that means hybr
 
 ### Stack
 
+<div align="center">
+
 [![Skills](https://skillicons.dev/icons?i=python,fastapi,django,nextjs,react,ts,tailwind,sqlite,postgres,pytorch,docker,aws,linux,git)](https://skillicons.dev)
+
+</div>
 
 ### Featured
 
@@ -22,12 +26,17 @@ I build retrieval and LLM-powered products end to end. Right now that means hybr
 
 ### GitHub Stats
 
+### GitHub Stats
+
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anand9409&hide_border=true&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anand9409&theme=tokyo-night&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/anand9409/anand9409/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ### Connect
 
