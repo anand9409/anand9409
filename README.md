@@ -37,6 +37,13 @@ I build retrieval and LLM-powered products end to end. Right now that means hybr
 - **[claude-coach-kit](https://github.com/krishna-build/claude-coach-kit)** — open-source marketing-automation toolkit for coaches and solopreneurs (Supabase + React). I contributed the Vitest test suite covering the email-sequence logic.
 - **PathGrade** — school-management SaaS platform (FastAPI + PostgreSQL). Repo coming soon.
 
+### GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anand9409&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=anand9409&hide_border=true&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anand9409&theme=tokyo-night&hide_border=true)
+
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/anand-verma-946b41232) · [GitHub](https://github.com/anand9409)
