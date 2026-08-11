@@ -15,7 +15,7 @@ I build retrieval and LLM-powered products end to end. Right now that means hybr
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,fastapi,django,nextjs,react,ts,tailwind,sqlite,postgres,pytorch,docker,aws,linux,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,fastapi,django,nextjs,react,ts,tailwind,sqlite,postgres,pytorch,docker,aws,linux,git,illustrator)](https://skillicons.dev)
 
 </div>
 
